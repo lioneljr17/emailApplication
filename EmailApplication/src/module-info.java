@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author lioneldesroses
+ *
+ */
+module EmailApplication {
+}
